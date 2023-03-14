@@ -31,7 +31,7 @@ Cleaning up the data, I deleted unwanted columns like phone numbers, reviews, et
 Analysis was done using simple visuals since the tables had been properly cleaned.
 
 ## 1. Restuarant Type Familarity.
-If I select Buffet as a restaurant type, I’ll see then that the Bangalore people will spend around 1300 rupees as their average bill amount. 
+If I select Dine-out as a restaurant type, I’ll see then that the Bangalore people will spend around 1300 rupees as their average bill amount. 
 
 ## 2. Location SOptions. 
 if I select Brookefield as my location, I can see the rest type available in the region. Seeing as there isn’t a dine out, desert, pub & bar. The avg bill amount for the Brookefoeld region is 401 Rupees. And the cusines available in the region are displayed in the word cloud. The avg rating for Brookefield is 3.38 and has a total vote of 19,000. Along with the top 10 competitors in the region.  
